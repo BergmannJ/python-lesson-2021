@@ -1,3 +1,6 @@
 # Mein erstes Git Repositorium
 
--Autorin: Jacqueline Bergmann
+Meine Jupyter Notebooks
+
+- Autorin: Jacqueline Bergmann
+- Datum: 2021-01-26
